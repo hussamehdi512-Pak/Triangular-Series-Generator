@@ -1,7 +1,7 @@
 x = 0
 y= 0
 a= 1
-z = int(input("How many numbers do you need from Fabonaci Series:"))
+z = int(input("How many numbers do you need from Triangular Series:"))
 while a <= z:
 	print(x)
 	y = y + 1
