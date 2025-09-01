@@ -1,5 +1,5 @@
 x = 0
-y= 0
+y= 1
 a= 1
 z = int(input("How many numbers do you need from Triangular Series:"))
 while a <= z:
